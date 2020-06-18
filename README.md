@@ -2,7 +2,7 @@
 Driveways
 
 
-## Installation Instructions: 
+## Installation: 
 > 
 
 
