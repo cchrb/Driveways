@@ -35,34 +35,30 @@ Driveways
 
 ## Features / Planning
 
--   Map Functionality: API?
+#TODO: Finish Features
 
+-   Map Functionality: Google API's
+    - Object Markers
+        - Price/(day,timeframe), location, time, 
 -   Search Functionality
-
-    -   **Locations linked to map**
-
--   **User Accounts**
-
-    -   **Buyer Portal**
-    -   **Seller Portal**
-        -   Sell Parking Spot (Update DB):
-            -   Cost
-            -   Address
-            -   Time
+    -   address search
+    -   distance function
+-   **Buyer Portal**
+-   **Seller Portal**
+        -   Make Listing (Update DB):
+            -   Cost, Time, Address
+- **Sign in Page**
     -   **Account Details**
         -   Payment
-            -
-
-    -   **Creating Objects on that map**
-
-    -
-
+        -   Account Information
+    
     
 
-    
+Later features:
 
-    Later features:
+## User Testing
 
+> Later: Todo. 
 
 
 
